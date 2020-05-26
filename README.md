@@ -7,13 +7,13 @@
 ### .aia-filen kan öppnas i app-inventor. .apk är den färdiga appen som kan installeras på ett Android-operativsystem.
 
 ## TODO (Klart)
-- ~~Kod för alla 5 profiler.
-- ~~Ska kunna justera persiennen manuellt
-- ~~Ska kunna sätta tid för automatisk upp- och nedgång av persiennen.
-- ~~Ska kunna varieras efter solen.
-- ~~För de olika inställningarna ska man kunna bestämma höjden persiennen
-~~ställer sig vid. Görs med slider.
-- Koppla ihop app-inventor appen med arduino. Strängar skickas via bluetooth
-~~och arudino-skriptet kontrollerar stegmotorn efter detta.
--  Eventuellt ingen tillgänglig stegmotor, demonstreras då med LED.
+- ~~Kod för alla 5 profiler.~~
+- ~~Ska kunna justera persiennen manuellt~~
+- ~~Ska kunna sätta tid för automatisk upp- och nedgång av persiennen.~~
+- ~~Ska kunna varieras efter solen.~~
+- ~~För de olika inställningarna ska man kunna bestämma höjden persiennen~~
+~~ställer sig vid. Görs med slider.~~
+- ~~Koppla ihop app-inventor appen med arduino. Strängar skickas via bluetooth~~
+~~och arudino-skriptet kontrollerar stegmotorn efter detta.~~
+-  ~~Eventuellt ingen tillgänglig stegmotor, demonstreras då med LED.~~
 
